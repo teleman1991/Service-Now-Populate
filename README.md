@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Usage
 
 ### Running the Scraper
-
+Do not run the other scraper.py files
 ```bash
 python src/final_scraper.py
 ```
