@@ -5,6 +5,8 @@ from comprehensive_scraper import ComprehensiveProblemScraper
 from comprehensive_scraper_part2 import additional_problems
 from comprehensive_scraper_part3 import more_problems
 from comprehensive_scraper_part4 import final_problems
+from office_problems_scraper import office_problems
+from outlook_teams_problems import outlook_teams_problems
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -19,6 +21,8 @@ class FinalProblemScraper:
         self.problems_solutions.extend(additional_problems)
         self.problems_solutions.extend(more_problems)
         self.problems_solutions.extend(final_problems)
+        self.problems_solutions.extend(office_problems)
+        self.problems_solutions.extend(outlook_teams_problems)
         
         self.data_dir = Path('data')
         self.data_dir.mkdir(exist_ok=True)

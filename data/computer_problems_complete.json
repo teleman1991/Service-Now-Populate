@@ -1,0 +1,752 @@
+[
+  {
+    "problem": "Keyboard keys not responding",
+    "solution": "1. Check for debris under keys\n2. Update keyboard drivers\n3. Test in Safe Mode\n4. Check USB connection\n5. Verify language settings\n6. Test external keyboard",
+    "category": "hardware"
+  },
+  {
+    "problem": "Mouse cursor freezing",
+    "solution": "1. Clean mouse sensor\n2. Check battery level\n3. Update mouse drivers\n4. Try different surface\n5. Test USB port\n6. Replace if needed",
+    "category": "hardware"
+  },
+  {
+    "problem": "Touchpad gestures not working",
+    "solution": "1. Check touchpad settings\n2. Update touchpad drivers\n3. Enable multi-touch\n4. Reset touchpad settings\n5. Test in Safe Mode\n6. Check manufacturer settings",
+    "category": "hardware"
+  },
+  {
+    "problem": "Screen flickering",
+    "solution": "1. Update graphics drivers\n2. Check refresh rate\n3. Test external monitor\n4. Verify cable connections\n5. Adjust power settings\n6. Check for interference",
+    "category": "hardware"
+  },
+  {
+    "problem": "External monitor not detected",
+    "solution": "1. Check cable connections\n2. Update display drivers\n3. Try different port\n4. Press Windows+P\n5. Check monitor power\n6. Test different cable",
+    "category": "hardware"
+  },
+  {
+    "problem": "Screen resolution stuck",
+    "solution": "1. Update graphics drivers\n2. Check display adapter\n3. Reset display settings\n4. Test in Safe Mode\n5. Check monitor capabilities\n6. Reinstall graphics drivers",
+    "category": "hardware"
+  },
+  {
+    "problem": "Hard drive making clicking sounds",
+    "solution": "1. Backup data immediately\n2. Check SMART status\n3. Run disk diagnostics\n4. Verify connections\n5. Test power supply\n6. Plan for replacement",
+    "category": "hardware"
+  },
+  {
+    "problem": "SSD performance degradation",
+    "solution": "1. Check drive health\n2. Enable TRIM\n3. Update firmware\n4. Optimize drive\n5. Check temperature\n6. Verify SATA mode",
+    "category": "hardware"
+  },
+  {
+    "problem": "External drive not recognized",
+    "solution": "1. Try different USB port\n2. Check power supply\n3. Update drivers\n4. Test on another PC\n5. Check disk management\n6. Try different cable",
+    "category": "hardware"
+  },
+  {
+    "problem": "Battery not charging",
+    "solution": "1. Check power adapter\n2. Verify outlet works\n3. Reset power system\n4. Check battery health\n5. Update BIOS\n6. Service if needed",
+    "category": "hardware"
+  },
+  {
+    "problem": "Random shutdowns",
+    "solution": "1. Check temperatures\n2. Test power supply\n3. Update drivers\n4. Check event logs\n5. Test RAM\n6. Clean internal components",
+    "category": "hardware"
+  },
+  {
+    "problem": "Power button not responding",
+    "solution": "1. Check connections\n2. Reset power settings\n3. Test button mechanism\n4. Check motherboard\n5. Update BIOS\n6. Service if needed",
+    "category": "hardware"
+  },
+  {
+    "problem": "Printer offline",
+    "solution": "1. Check connections\n2. Verify network settings\n3. Reset print spooler\n4. Update drivers\n5. Power cycle printer\n6. Reinstall printer",
+    "category": "hardware"
+  },
+  {
+    "problem": "Print quality issues",
+    "solution": "1. Clean print heads\n2. Check ink levels\n3. Run alignment\n4. Use quality settings\n5. Check paper type\n6. Service if needed",
+    "category": "hardware"
+  },
+  {
+    "problem": "Paper jams",
+    "solution": "1. Clear all paper\n2. Check paper path\n3. Use correct paper\n4. Clean rollers\n5. Check alignment\n6. Service if frequent",
+    "category": "hardware"
+  },
+  {
+    "problem": "Windows boot failure",
+    "solution": "1. Use startup repair\n2. Check boot sequence\n3. Repair MBR\n4. Check disk errors\n5. Restore system\n6. Clean install if needed",
+    "category": "software"
+  },
+  {
+    "problem": "Blue screen errors",
+    "solution": "1. Note error code\n2. Update drivers\n3. Check memory\n4. Scan system files\n5. Check updates\n6. Reset Windows",
+    "category": "software"
+  },
+  {
+    "problem": "System file corruption",
+    "solution": "1. Run SFC scan\n2. Check disk\n3. Restore system\n4. Update Windows\n5. Repair install\n6. Clean install",
+    "category": "software"
+  },
+  {
+    "problem": "Program crashes on startup",
+    "solution": "1. Run as admin\n2. Update program\n3. Check compatibility\n4. Clear app data\n5. Reinstall program\n6. Update Windows",
+    "category": "software"
+  },
+  {
+    "problem": "Application not responding",
+    "solution": "1. Wait briefly\n2. Force close\n3. Check resources\n4. Update app\n5. Clear cache\n6. Reinstall",
+    "category": "software"
+  },
+  {
+    "problem": "Program installation fails",
+    "solution": "1. Check requirements\n2. Run as admin\n3. Disable antivirus\n4. Clear temp files\n5. Check disk space\n6. Use compatibility mode",
+    "category": "software"
+  },
+  {
+    "problem": "Browser crashes frequently",
+    "solution": "1. Update browser\n2. Clear cache\n3. Disable extensions\n4. Check malware\n5. Reset settings\n6. Reinstall browser",
+    "category": "software"
+  },
+  {
+    "problem": "Slow web browsing",
+    "solution": "1. Clear history\n2. Check connection\n3. Disable extensions\n4. Reset browser\n5. Update browser\n6. Check DNS settings",
+    "category": "software"
+  },
+  {
+    "problem": "Homepage changed without permission",
+    "solution": "1. Check malware\n2. Reset settings\n3. Remove extensions\n4. Check startup items\n5. Clear registry\n6. Reinstall browser",
+    "category": "software"
+  },
+  {
+    "problem": "No internet access",
+    "solution": "1. Check connections\n2. Restart modem\n3. Verify settings\n4. Test other devices\n5. Reset network\n6. Contact ISP",
+    "category": "network"
+  },
+  {
+    "problem": "Intermittent connection",
+    "solution": "1. Check signal\n2. Update drivers\n3. Check interference\n4. Test different channel\n5. Reset equipment\n6. Contact ISP",
+    "category": "network"
+  },
+  {
+    "problem": "Slow network speed",
+    "solution": "1. Test speeds\n2. Check usage\n3. Verify plan\n4. Update drivers\n5. Check hardware\n6. Contact ISP",
+    "category": "network"
+  },
+  {
+    "problem": "WiFi not connecting",
+    "solution": "1. Check password\n2. Forget network\n3. Reset adapter\n4. Update drivers\n5. Check router\n6. Reset network",
+    "category": "network"
+  },
+  {
+    "problem": "Weak WiFi signal",
+    "solution": "1. Check distance\n2. Remove obstacles\n3. Change channel\n4. Update drivers\n5. Check antenna\n6. Add repeater",
+    "category": "network"
+  },
+  {
+    "problem": "WiFi keeps disconnecting",
+    "solution": "1. Update drivers\n2. Check power settings\n3. Reset adapter\n4. Change channel\n5. Update firmware\n6. Replace adapter",
+    "category": "network"
+  },
+  {
+    "problem": "System running slow",
+    "solution": "1. Check resources\n2. Clear temp files\n3. Remove malware\n4. Update system\n5. Defrag HDD\n6. Upgrade hardware",
+    "category": "system"
+  },
+  {
+    "problem": "High CPU usage",
+    "solution": "1. Check processes\n2. Update programs\n3. Scan malware\n4. Check cooling\n5. Reset Windows\n6. Test hardware",
+    "category": "system"
+  },
+  {
+    "problem": "High disk usage",
+    "solution": "1. Check processes\n2. Disable services\n3. Update Windows\n4. Check drive\n5. Reset indexing\n6. Replace drive",
+    "category": "system"
+  },
+  {
+    "problem": "Accidental file deletion",
+    "solution": "1. Check Recycle Bin\n2. Use recovery software\n3. Check file history\n4. Check OneDrive/Cloud\n5. Restore from backup\n6. Contact recovery service",
+    "category": "data"
+  },
+  {
+    "problem": "File system corruption",
+    "solution": "1. Run CHKDSK\n2. Use recovery tools\n3. Boot safe mode\n4. Check disk health\n5. Restore backup\n6. Professional recovery",
+    "category": "data"
+  },
+  {
+    "problem": "Partition not recognized",
+    "solution": "1. Check disk management\n2. Update drivers\n3. Run diskpart\n4. Test different USB\n5. Use recovery tools\n6. Professional help",
+    "category": "storage"
+  },
+  {
+    "problem": "Windows update stuck",
+    "solution": "1. Wait 2-3 hours\n2. Force restart\n3. Run troubleshooter\n4. Clear update cache\n5. Manual update\n6. Reset Windows",
+    "category": "system"
+  },
+  {
+    "problem": "Update installation failure",
+    "solution": "1. Check error code\n2. Run diagnostics\n3. Clear cache\n4. Reset components\n5. Manual install\n6. In-place upgrade",
+    "category": "system"
+  },
+  {
+    "problem": "Updates breaking functionality",
+    "solution": "1. System restore\n2. Uninstall update\n3. Check compatibility\n4. Update drivers\n5. Repair Windows\n6. Clean install",
+    "category": "system"
+  },
+  {
+    "problem": "Bluetooth device not connecting",
+    "solution": "1. Toggle Bluetooth\n2. Remove/repair device\n3. Update drivers\n4. Reset Bluetooth\n5. Check interference\n6. Replace device",
+    "category": "hardware"
+  },
+  {
+    "problem": "Scanner not working",
+    "solution": "1. Check connection\n2. Update drivers\n3. Run troubleshooter\n4. Reinstall device\n5. Test different port\n6. Service device",
+    "category": "hardware"
+  },
+  {
+    "problem": "Webcam malfunctioning",
+    "solution": "1. Check privacy settings\n2. Update drivers\n3. Test in other apps\n4. Reset device\n5. Check permissions\n6. Replace webcam",
+    "category": "hardware"
+  },
+  {
+    "problem": "PC slow after startup",
+    "solution": "1. Check startup items\n2. Update drivers\n3. Clean startup\n4. Check services\n5. Run diagnostics\n6. Fresh Windows",
+    "category": "system"
+  },
+  {
+    "problem": "Games running slowly",
+    "solution": "1. Update graphics\n2. Check requirements\n3. Close background\n4. Update Windows\n5. Optimize settings\n6. Upgrade hardware",
+    "category": "system"
+  },
+  {
+    "problem": "Programs loading slowly",
+    "solution": "1. Check disk space\n2. Defrag HDD\n3. Update program\n4. Clear temp\n5. Check malware\n6. Upgrade storage",
+    "category": "system"
+  },
+  {
+    "problem": "No microphone input",
+    "solution": "1. Check settings\n2. Test recording\n3. Update drivers\n4. Check connections\n5. Reset device\n6. Replace mic",
+    "category": "hardware"
+  },
+  {
+    "problem": "Audio playback issues",
+    "solution": "1. Check volume\n2. Test speakers\n3. Update drivers\n4. Reset audio\n5. Check connections\n6. Hardware test",
+    "category": "hardware"
+  },
+  {
+    "problem": "Sound card not detected",
+    "solution": "1. Check Device Manager\n2. Update drivers\n3. Reset hardware\n4. Test in safe mode\n5. Check BIOS\n6. Replace card",
+    "category": "hardware"
+  },
+  {
+    "problem": "Password not working",
+    "solution": "1. Check caps lock\n2. Reset password\n3. Use recovery\n4. Contact admin\n5. Check account\n6. System restore",
+    "category": "security"
+  },
+  {
+    "problem": "Suspicious activity",
+    "solution": "1. Run antivirus\n2. Check processes\n3. Change passwords\n4. Check startup\n5. Enable 2FA\n6. Fresh install",
+    "category": "security"
+  },
+  {
+    "problem": "Firewall blocking program",
+    "solution": "1. Check settings\n2. Add exception\n3. Temporary disable\n4. Reset firewall\n5. Update program\n6. Contact support",
+    "category": "security"
+  },
+  {
+    "problem": "Mac kernel panic",
+    "solution": "1. Check logs\n2. Update macOS\n3. Check RAM\n4. Reset SMC\n5. Reset NVRAM\n6. Contact Apple",
+    "category": "system"
+  },
+  {
+    "problem": "Mac boot problems",
+    "solution": "1. Reset PRAM\n2. Safe mode\n3. Disk utility\n4. Recovery mode\n5. Reinstall OS\n6. Hardware test",
+    "category": "system"
+  },
+  {
+    "problem": "Time Machine backup failing",
+    "solution": "1. Check space\n2. Verify disk\n3. Reset backup\n4. New backup\n5. Check permissions\n6. Different drive",
+    "category": "data"
+  },
+  {
+    "problem": "iPhone not syncing",
+    "solution": "1. Check iTunes\n2. Update iOS\n3. Reset sync\n4. Different cable\n5. Reset settings\n6. Contact Apple",
+    "category": "hardware"
+  },
+  {
+    "problem": "Android file transfer issues",
+    "solution": "1. Enable USB debug\n2. Update drivers\n3. Different cable\n4. Check MTP\n5. Reset phone\n6. Different PC",
+    "category": "hardware"
+  },
+  {
+    "problem": "Mobile hotspot not working",
+    "solution": "1. Check settings\n2. Reset network\n3. Update phone\n4. Check plan\n5. Reset PC network\n6. Contact carrier",
+    "category": "network"
+  },
+  {
+    "problem": "Outlook not syncing",
+    "solution": "1. Check internet connection\n2. Verify account settings\n3. Update Outlook\n4. Clear cache\n5. Repair PST file\n6. Create new profile",
+    "category": "software"
+  },
+  {
+    "problem": "Email attachments not opening",
+    "solution": "1. Update associated programs\n2. Check file permissions\n3. Scan for viruses\n4. Clear temp files\n5. Save then open\n6. Try different viewer",
+    "category": "software"
+  },
+  {
+    "problem": "Email sending delayed",
+    "solution": "1. Check outbox\n2. Verify server settings\n3. Check file size\n4. Test connection\n5. Clear cache\n6. Rebuild profile",
+    "category": "software"
+  },
+  {
+    "problem": "Zoom audio not working",
+    "solution": "1. Check audio settings\n2. Test speaker/mic\n3. Update Zoom\n4. Reset audio\n5. Check permissions\n6. Reinstall Zoom",
+    "category": "software"
+  },
+  {
+    "problem": "Teams video freezing",
+    "solution": "1. Check bandwidth\n2. Lower video quality\n3. Update Teams\n4. Clear cache\n5. Check resources\n6. Reinstall Teams",
+    "category": "software"
+  },
+  {
+    "problem": "Meeting connection issues",
+    "solution": "1. Test internet\n2. Close other apps\n3. Update client\n4. Check firewall\n5. Reset network\n6. Try browser version",
+    "category": "network"
+  },
+  {
+    "problem": "OneDrive not syncing",
+    "solution": "1. Check connection\n2. Verify space\n3. Reset OneDrive\n4. Check permissions\n5. Update client\n6. Reinstall OneDrive",
+    "category": "software"
+  },
+  {
+    "problem": "Dropbox sync conflicts",
+    "solution": "1. Check versions\n2. Resolve conflicts\n3. Clear cache\n4. Update client\n5. Check space\n6. Contact support",
+    "category": "software"
+  },
+  {
+    "problem": "Google Drive access issues",
+    "solution": "1. Check permissions\n2. Verify account\n3. Clear browser cache\n4. Update browser\n5. Try different browser\n6. Contact admin",
+    "category": "software"
+  },
+  {
+    "problem": "Phone not connecting to PC",
+    "solution": "1. Update drivers\n2. Check USB mode\n3. Try different port\n4. Install software\n5. Check cable\n6. Reset connection",
+    "category": "hardware"
+  },
+  {
+    "problem": "Tablet not recognized",
+    "solution": "1. Install drivers\n2. Check USB settings\n3. Update Windows\n4. Try different port\n5. Reset device\n6. Check compatibility",
+    "category": "hardware"
+  },
+  {
+    "problem": "Device not syncing",
+    "solution": "1. Check settings\n2. Update software\n3. Reset sync\n4. Clear data\n5. Remove/readd account\n6. Factory reset",
+    "category": "software"
+  },
+  {
+    "problem": "Video playback issues",
+    "solution": "1. Update codecs\n2. Check format\n3. Update player\n4. Check resources\n5. Try different player\n6. Convert video",
+    "category": "software"
+  },
+  {
+    "problem": "Audio distortion",
+    "solution": "1. Check volume levels\n2. Update drivers\n3. Test different output\n4. Check connections\n5. Reset audio\n6. Replace hardware",
+    "category": "hardware"
+  },
+  {
+    "problem": "Streaming buffering",
+    "solution": "1. Check bandwidth\n2. Close other apps\n3. Clear cache\n4. Lower quality\n5. Use ethernet\n6. Contact provider",
+    "category": "network"
+  },
+  {
+    "problem": "VM not starting",
+    "solution": "1. Check resources\n2. Update hypervisor\n3. Verify settings\n4. Check permissions\n5. Repair VM\n6. Rebuild VM",
+    "category": "software"
+  },
+  {
+    "problem": "VM performance issues",
+    "solution": "1. Check allocation\n2. Update tools\n3. Optimize host\n4. Check storage\n5. Defrag VM\n6. Rebuild VM",
+    "category": "system"
+  },
+  {
+    "problem": "VM network problems",
+    "solution": "1. Check adapters\n2. Verify settings\n3. Update tools\n4. Reset network\n5. Check firewall\n6. Recreate adapter",
+    "category": "network"
+  },
+  {
+    "problem": "RDP connection failed",
+    "solution": "1. Check network\n2. Verify credentials\n3. Check firewall\n4. Enable RDP\n5. Update client\n6. Check ports",
+    "category": "network"
+  },
+  {
+    "problem": "VPN connection issues",
+    "solution": "1. Check internet\n2. Verify credentials\n3. Update client\n4. Reset adapter\n5. Check firewall\n6. Contact IT",
+    "category": "network"
+  },
+  {
+    "problem": "Remote software unresponsive",
+    "solution": "1. Check bandwidth\n2. Update client\n3. Verify settings\n4. Reset connection\n5. Clear cache\n6. Reinstall client",
+    "category": "software"
+  },
+  {
+    "problem": "Excel not responding",
+    "solution": "1. Disable add-ins\n2. Clear Excel temp\n3. Repair Office\n4. Check file size\n5. Save as new file\n6. Reinstall Office",
+    "category": "software"
+  },
+  {
+    "problem": "Word document corruption",
+    "solution": "1. Use auto-recover\n2. Open in safe mode\n3. Repair document\n4. Convert format\n5. Extract content\n6. Restore backup",
+    "category": "software"
+  },
+  {
+    "problem": "PowerPoint not playing media",
+    "solution": "1. Update codecs\n2. Check format\n3. Embed media\n4. Convert files\n5. Update Office\n6. Repair installation",
+    "category": "software"
+  },
+  {
+    "problem": "Database connection lost",
+    "solution": "1. Check network\n2. Verify credentials\n3. Test connection\n4. Reset services\n5. Check firewall\n6. Contact DBA",
+    "category": "software"
+  },
+  {
+    "problem": "SQL Server performance issues",
+    "solution": "1. Check queries\n2. Update statistics\n3. Check indexes\n4. Monitor resources\n5. Clear cache\n6. Optimize database",
+    "category": "software"
+  },
+  {
+    "problem": "Database backup failing",
+    "solution": "1. Check space\n2. Verify permissions\n3. Test backup path\n4. Check logs\n5. Manual backup\n6. Contact support",
+    "category": "data"
+  },
+  {
+    "problem": "Linux boot failure",
+    "solution": "1. Check GRUB\n2. Update kernel\n3. Check fstab\n4. Boot recovery\n5. Check logs\n6. Repair boot",
+    "category": "system"
+  },
+  {
+    "problem": "Package manager broken",
+    "solution": "1. Update repos\n2. Clear cache\n3. Fix dependencies\n4. Force update\n5. Check sources\n6. Repair database",
+    "category": "software"
+  },
+  {
+    "problem": "X server not starting",
+    "solution": "1. Check logs\n2. Update drivers\n3. Check config\n4. Reset X\n5. Check GPU\n6. Reinstall desktop",
+    "category": "system"
+  },
+  {
+    "problem": "Active Directory sync issues",
+    "solution": "1. Check connectivity\n2. Verify credentials\n3. Test ports\n4. Check services\n5. Reset sync\n6. Contact admin",
+    "category": "network"
+  },
+  {
+    "problem": "Group Policy not applying",
+    "solution": "1. gpupdate /force\n2. Check WMI\n3. Verify links\n4. Test connectivity\n5. Check logs\n6. Reset policy",
+    "category": "system"
+  },
+  {
+    "problem": "Certificate errors",
+    "solution": "1. Check expiry\n2. Verify trust\n3. Update chain\n4. Clear cache\n5. Reissue cert\n6. Contact CA",
+    "category": "security"
+  },
+  {
+    "problem": "Hyper-V creation failed",
+    "solution": "1. Check resources\n2. Verify permissions\n3. Update Hyper-V\n4. Check logs\n5. Reset service\n6. Rebuild VM",
+    "category": "system"
+  },
+  {
+    "problem": "VMware tools issues",
+    "solution": "1. Reinstall tools\n2. Update VM\n3. Check compatibility\n4. Reset services\n5. Update host\n6. Rebuild tools",
+    "category": "software"
+  },
+  {
+    "problem": "Virtual network down",
+    "solution": "1. Check switches\n2. Reset network\n3. Update drivers\n4. Verify settings\n5. Test connectivity\n6. Rebuild network",
+    "category": "network"
+  },
+  {
+    "problem": "Memory test failures",
+    "solution": "1. Run memtest86\n2. Test individual sticks\n3. Check slots\n4. Clean contacts\n5. Update BIOS\n6. Replace RAM",
+    "category": "hardware"
+  },
+  {
+    "problem": "CPU overheating",
+    "solution": "1. Clean heatsink\n2. Replace paste\n3. Check fan\n4. Monitor temps\n5. Check load\n6. Replace cooler",
+    "category": "hardware"
+  },
+  {
+    "problem": "Motherboard not posting",
+    "solution": "1. Check power\n2. Clear CMOS\n3. Test components\n4. Check beep codes\n5. Flash BIOS\n6. Replace board",
+    "category": "hardware"
+  },
+  {
+    "problem": "MDM enrollment failing",
+    "solution": "1. Check connectivity\n2. Verify credentials\n3. Reset enrollment\n4. Update MDM\n5. Check compatibility\n6. Contact support",
+    "category": "system"
+  },
+  {
+    "problem": "Device policy conflicts",
+    "solution": "1. Review policies\n2. Check precedence\n3. Update policy\n4. Reset device\n5. Clear cache\n6. Reapply policy",
+    "category": "security"
+  },
+  {
+    "problem": "Mobile app deployment failed",
+    "solution": "1. Check package\n2. Verify signing\n3. Test deployment\n4. Check space\n5. Update MDM\n6. Manual install",
+    "category": "software"
+  },
+  {
+    "problem": "Azure AD sync issues",
+    "solution": "1. Check connector\n2. Verify credentials\n3. Test connection\n4. Update client\n5. Reset sync\n6. Contact support",
+    "category": "network"
+  },
+  {
+    "problem": "AWS instance unavailable",
+    "solution": "1. Check status\n2. Verify network\n3. Check security\n4. Test connection\n5. Restart instance\n6. Contact AWS",
+    "category": "network"
+  },
+  {
+    "problem": "Cloud storage quota exceeded",
+    "solution": "1. Check usage\n2. Clear cache\n3. Remove old files\n4. Upgrade plan\n5. Archive data\n6. Contact admin",
+    "category": "storage"
+  },
+  {
+    "problem": "Outlook search not working",
+    "solution": "1. Rebuild search index\n2. Repair PST/OST file\n3. Clear search history\n4. Reset indexing options\n5. Update Office\n6. Create new Outlook profile",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook calendar sync issues",
+    "solution": "1. Check internet connection\n2. Update shared calendar permissions\n3. Remove and re-add calendar\n4. Clear calendar cache\n5. Reset sync settings\n6. Repair Office installation",
+    "category": "software"
+  },
+  {
+    "problem": "PST file corruption",
+    "solution": "1. Use Inbox Repair Tool (scanpst.exe)\n2. Create PST backup\n3. Import to new PST\n4. Check disk errors\n5. Compact PST file\n6. Archive old emails",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook rules not working",
+    "solution": "1. Disable and re-enable rules\n2. Check rule conditions\n3. Recreate problem rules\n4. Clear rule cache\n5. Export and import rules\n6. Reset rules database",
+    "category": "software"
+  },
+  {
+    "problem": "Excel formula errors",
+    "solution": "1. Check formula syntax\n2. Verify cell references\n3. Check calculation settings\n4. Update Excel\n5. Repair workbook\n6. Rebuild formula",
+    "category": "software"
+  },
+  {
+    "problem": "Excel macros disabled",
+    "solution": "1. Check security settings\n2. Enable trusted locations\n3. Sign macro code\n4. Adjust trust center\n5. Check group policy\n6. Recreate macro",
+    "category": "software"
+  },
+  {
+    "problem": "Excel file size too large",
+    "solution": "1. Remove unused sheets\n2. Clear formatting\n3. Convert formulas to values\n4. Remove conditional formatting\n5. Delete unused ranges\n6. Save as new file",
+    "category": "software"
+  },
+  {
+    "problem": "Excel pivot table errors",
+    "solution": "1. Refresh data source\n2. Clear pivot cache\n3. Rebuild pivot table\n4. Check data integrity\n5. Update Excel\n6. Create new pivot",
+    "category": "software"
+  },
+  {
+    "problem": "Teams meeting audio issues",
+    "solution": "1. Check audio settings\n2. Update audio drivers\n3. Test different device\n4. Clear Teams cache\n5. Reinstall Teams\n6. Reset audio settings",
+    "category": "software"
+  },
+  {
+    "problem": "Teams screen sharing failed",
+    "solution": "1. Check permissions\n2. Update graphics drivers\n3. Close conflicting apps\n4. Reset Teams\n5. Check bandwidth\n6. Reinstall Teams",
+    "category": "software"
+  },
+  {
+    "problem": "Teams chat history missing",
+    "solution": "1. Check retention policies\n2. Clear Teams cache\n3. Check sync status\n4. Reset Teams app\n5. Check permissions\n6. Contact admin",
+    "category": "software"
+  },
+  {
+    "problem": "Teams notifications not working",
+    "solution": "1. Check notification settings\n2. Update Windows settings\n3. Reset Teams\n4. Clear cache\n5. Reinstall Teams\n6. Check group policy",
+    "category": "software"
+  },
+  {
+    "problem": "Word styles corrupted",
+    "solution": "1. Reset normal template\n2. Clear style cache\n3. Copy to new document\n4. Repair Office\n5. Delete corrupt template\n6. Recreate styles",
+    "category": "software"
+  },
+  {
+    "problem": "Word track changes issues",
+    "solution": "1. Check tracking settings\n2. Accept/Reject all\n3. Copy to new doc\n4. Reset user settings\n5. Repair document\n6. Update Office",
+    "category": "software"
+  },
+  {
+    "problem": "Word table of contents not updating",
+    "solution": "1. Update fields manually\n2. Check heading styles\n3. Rebuild TOC\n4. Convert to manual\n5. Check formatting\n6. Create new TOC",
+    "category": "software"
+  },
+  {
+    "problem": "Word images disappearing",
+    "solution": "1. Check wrap settings\n2. Update links\n3. Check compatibility\n4. Repair document\n5. Convert to PDF\n6. Re-insert images",
+    "category": "software"
+  },
+  {
+    "problem": "PowerPoint animations not working",
+    "solution": "1. Check animation pane\n2. Reset timing\n3. Update PowerPoint\n4. Check compatibility\n5. Rebuild animation\n6. Create new slide",
+    "category": "software"
+  },
+  {
+    "problem": "PowerPoint embedded video issues",
+    "solution": "1. Check video format\n2. Update codecs\n3. Re-embed video\n4. Check compatibility\n5. Convert video\n6. Use online video",
+    "category": "software"
+  },
+  {
+    "problem": "PowerPoint master slide corruption",
+    "solution": "1. Reset master slide\n2. Copy to new presentation\n3. Check template\n4. Repair file\n5. Reset layout\n6. Create new master",
+    "category": "software"
+  },
+  {
+    "problem": "PowerPoint font substitution",
+    "solution": "1. Install missing fonts\n2. Embed fonts\n3. Use system fonts\n4. Check compatibility\n5. Update PowerPoint\n6. Replace fonts",
+    "category": "software"
+  },
+  {
+    "problem": "OneNote sync conflicts",
+    "solution": "1. Force sync\n2. Clear cache\n3. Check version\n4. Merge changes\n5. Backup notebook\n6. Reset sync",
+    "category": "software"
+  },
+  {
+    "problem": "OneNote pages missing",
+    "solution": "1. Check recycle bin\n2. Force sync\n3. Check version history\n4. Restore backup\n5. Check permissions\n6. Contact support",
+    "category": "software"
+  },
+  {
+    "problem": "OneNote audio recording failed",
+    "solution": "1. Check microphone\n2. Update drivers\n3. Check permissions\n4. Reset OneNote\n5. Clear cache\n6. Reinstall app",
+    "category": "software"
+  },
+  {
+    "problem": "SharePoint sync issues",
+    "solution": "1. Check connectivity\n2. Reset OneDrive sync\n3. Clear cache\n4. Check permissions\n5. Reset credentials\n6. Contact admin",
+    "category": "software"
+  },
+  {
+    "problem": "SharePoint check-out problems",
+    "solution": "1. Force check-in\n2. Clear lock\n3. Contact owner\n4. Reset cache\n5. Check permissions\n6. Manual override",
+    "category": "software"
+  },
+  {
+    "problem": "SharePoint workflow errors",
+    "solution": "1. Check permissions\n2. Verify conditions\n3. Reset workflow\n4. Check history\n5. Rebuild workflow\n6. Contact admin",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook sending duplicate emails",
+    "solution": "1. Check Send/Receive settings\n2. Clear local cache\n3. Remove duplicate accounts\n4. Check rules for auto-forwarding\n5. Reset Outlook profile\n6. Repair OST file",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook stuck on loading profile",
+    "solution": "1. Start in safe mode\n2. Remove add-ins\n3. Delete profile and recreate\n4. Clear credentials\n5. Reset navigation pane\n6. Repair Office installation",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook address book not displaying contacts",
+    "solution": "1. Rebuild address book\n2. Download offline address book\n3. Check visibility settings\n4. Reset address book cache\n5. Verify exchange connectivity\n6. Update contact list",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook delegate access not working",
+    "solution": "1. Remove and re-add delegate\n2. Check permission levels\n3. Update sharing policies\n4. Clear credential cache\n5. Verify autodiscover\n6. Reset delegation settings",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook meeting requests not sending",
+    "solution": "1. Check calendar permissions\n2. Verify room availability\n3. Clear calendar cache\n4. Reset meeting options\n5. Check scheduling assistant\n6. Update time zone settings",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook offline mode stuck",
+    "solution": "1. Toggle Work Offline mode\n2. Check network connection\n3. Repair OST file\n4. Reset Exchange account\n5. Clear credential cache\n6. Recreate Outlook profile",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook archive not working",
+    "solution": "1. Check archive settings\n2. Verify archive location\n3. Test archive file access\n4. Clear temp files\n5. Reset archive policies\n6. Create new archive file",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook signature not appearing",
+    "solution": "1. Check signature settings\n2. Recreate signature\n3. Clear signature cache\n4. Copy from template\n5. Reset user settings\n6. Update Office",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook shared mailbox not updating",
+    "solution": "1. Check permissions\n2. Remove and re-add mailbox\n3. Clear cache\n4. Reset auto-mapping\n5. Update delegation\n6. Verify exchange settings",
+    "category": "software"
+  },
+  {
+    "problem": "Outlook categories not syncing",
+    "solution": "1. Reset category list\n2. Clear sync issues\n3. Check master category list\n4. Update Office\n5. Reset user settings\n6. Rebuild profile",
+    "category": "software"
+  },
+  {
+    "problem": "Teams presence status incorrect",
+    "solution": "1. Reset presence manually\n2. Clear Teams cache\n3. Check calendar integration\n4. Update status settings\n5. Sign out/in Teams\n6. Reset Teams app",
+    "category": "software"
+  },
+  {
+    "problem": "Teams meeting recording failing",
+    "solution": "1. Check storage space\n2. Verify recording permissions\n3. Test Stream access\n4. Clear browser cache\n5. Update Teams\n6. Check policy settings",
+    "category": "software"
+  },
+  {
+    "problem": "Teams background effects not working",
+    "solution": "1. Check system requirements\n2. Update graphics drivers\n3. Clear Teams cache\n4. Reset video settings\n5. Verify hardware support\n6. Reinstall Teams",
+    "category": "software"
+  },
+  {
+    "problem": "Teams calendar integration issues",
+    "solution": "1. Check Exchange connection\n2. Reset calendar permissions\n3. Clear Teams cache\n4. Update calendar settings\n5. Verify autodiscover\n6. Repair Office",
+    "category": "software"
+  },
+  {
+    "problem": "Teams file sharing not working",
+    "solution": "1. Check SharePoint connection\n2. Verify permissions\n3. Reset file cache\n4. Check storage quota\n5. Update sharing settings\n6. Contact admin",
+    "category": "software"
+  },
+  {
+    "problem": "Teams meeting join link not working",
+    "solution": "1. Check meeting permissions\n2. Clear browser cache\n3. Try different browser\n4. Reset Teams client\n5. Check firewall settings\n6. Recreate meeting",
+    "category": "software"
+  },
+  {
+    "problem": "Teams private chat history disappeared",
+    "solution": "1. Check retention policies\n2. Search message history\n3. Clear Teams cache\n4. Check sync status\n5. Verify user access\n6. Contact support",
+    "category": "software"
+  },
+  {
+    "problem": "Teams channel notifications not working",
+    "solution": "1. Check channel notifications\n2. Update team settings\n3. Reset notification preferences\n4. Clear app cache\n5. Check group policy\n6. Reinstall Teams",
+    "category": "software"
+  },
+  {
+    "problem": "Teams microphone switching issues",
+    "solution": "1. Check device settings\n2. Update audio drivers\n3. Set default device\n4. Reset Teams audio\n5. Test in other apps\n6. Reinstall audio drivers",
+    "category": "software"
+  },
+  {
+    "problem": "Teams screen sharing quality poor",
+    "solution": "1. Check bandwidth\n2. Lower resolution\n3. Close background apps\n4. Update graphics drivers\n5. Check hardware acceleration\n6. Optimize performance",
+    "category": "software"
+  },
+  {
+    "problem": "Teams mobile app sync issues",
+    "solution": "1. Check mobile settings\n2. Clear app cache\n3. Reset notifications\n4. Update app\n5. Check data connection\n6. Reinstall app",
+    "category": "software"
+  },
+  {
+    "problem": "Teams meeting breakout rooms not working",
+    "solution": "1. Check host permissions\n2. Verify meeting policy\n3. Update Teams\n4. Reset meeting options\n5. Check tenant settings\n6. Contact admin",
+    "category": "software"
+  }
+]
