@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ### Running the Scraper
 
 ```bash
-python src/scraper.py
+python src/final_scraper.py
 ```
 
 This will collect problems and solutions from various sources and save them to `data/computer_problems.json`.
