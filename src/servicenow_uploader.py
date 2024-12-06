@@ -4,6 +4,7 @@ from pathlib import Path
 import csv
 import logging
 from typing import List, Dict
+from datetime import datetime
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -126,12 +127,12 @@ class ServiceNowUploader:
 
 if __name__ == '__main__':
     # Replace these with your ServiceNow instance details
-    instance_url = 'https://your-instance.service-now.com'
-    username = 'your_username'
-    password = 'your_password'
+    instance_url = 'https://compassdcdev.service-now.com'
+    username = 'it_kb.integration'
+    password = 'password'
 
     uploader = ServiceNowUploader(instance_url, username, password)
-
+    uploader.bulk_upload('kb')
     # Option 1: Direct API upload to Knowledge Base
     # uploader.bulk_upload('kb')
 
@@ -139,4 +140,4 @@ if __name__ == '__main__':
     # uploader.bulk_upload('incident')
 
     # Option 3: Export to CSV for manual import
-    csv_file = uploader.export_to_csv(uploader.load_problems(), 'kb')
+    
